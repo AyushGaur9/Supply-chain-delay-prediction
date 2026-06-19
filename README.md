@@ -41,11 +41,7 @@ The analysis includes:
 - Kaggle Supply Chain Dataset
 - 180,000+ records analyzed
 
-## Project Status
 
-🚧 Work in Progress
-
-Source code, notebooks, visualizations, and model implementation will be uploaded soon.
 
 ## Future Improvements
 
