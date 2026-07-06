@@ -1,6 +1,6 @@
 # End-to-End Supply Chain Analysis
 
-An end-to-end supply chain analytics project focused on delivery performance, operational bottlenecks, and shipment delay prediction using Python-based data analysis and machine learning techniques.
+An end-to-end supply chain analysis project focused on delivery performance, operational bottlenecks, and shipment delay prediction using Python-based data analysis and machine learning techniques.
 
 ## Project Overview
 
@@ -42,10 +42,3 @@ The analysis includes:
 - 180,000+ records analyzed
 
 
-
-## Future Improvements
-
-- Interactive dashboard integration
-- Model optimization and hyperparameter tuning
-- Deployment using Streamlit/Flask
-- Real-time shipment risk monitoring
